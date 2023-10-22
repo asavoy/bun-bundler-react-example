@@ -2,7 +2,9 @@
   "name": "bun-bundler-react-example",
   "type": "module",
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.5"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
